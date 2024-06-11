@@ -1,8 +1,12 @@
 {
   "routes": [
     {
+      "src": "/pixelsell",
+      "dest": "https://pixelsell.webflow.io"
+    },
+    {
       "src": "/(.*)",
       "dest": "https://flexidomain.webflow.io/$1"
- }
+    }
   ]
 }
