@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/raabta",
-      "dest": "https://flexidomain.in"
+      "dest": "https://flexidomain.in/$1"
     },
     {
       "src": "/(.*)",
