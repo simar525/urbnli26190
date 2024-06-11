@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/raabta",
-      "destination": "https://flexidomain.in"
+      "destination": "https://pixelsell.webflow.io"
     },
     {
       "source": "/(.*)",
