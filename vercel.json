@@ -3,10 +3,6 @@
     {
       "src": "/raabta",
       "dest": "https://flexidomain.in/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "https://flexidomain.webflow.io/$1"
     }
   ]
 }
