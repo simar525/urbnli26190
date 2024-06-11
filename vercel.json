@@ -1,6 +1,9 @@
 {
   "routes": [
     {
+      "src": "/raabta",
+      "dest": "https://flexidomain.in"
+    },
       "src": "/(.*)",
       "dest": "https://flexidomain.webflow.io/$1"
     }
