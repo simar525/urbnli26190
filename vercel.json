@@ -1,8 +1,12 @@
 {
   "rewrites": [
     {
-      "src": "/raabta",
-      "dest": "https://flexidomain.in/$1"
+      "source": "/raabta",
+      "destination": "https://flexidomain.in"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://flexidomain.webflow.io/$1"
     }
   ]
 }
